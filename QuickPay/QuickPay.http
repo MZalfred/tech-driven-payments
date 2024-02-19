@@ -1,0 +1,6 @@
+@QuickPay_HostAddress = http://localhost:5028
+
+GET {{QuickPay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
