@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using QuickPay.Models;
 
 namespace QuickPay.Controllers
 {
@@ -10,7 +9,7 @@ namespace QuickPay.Controllers
         [HttpPost]
         public IActionResult ProcessPayment([FromBody] Payment payment)
         {
-            // Return of a simple message
+            // For now, just return a simple message
             return Ok($"Payment for {payment.Amount} {payment.Currency} to {payment.Recipient} processed.");
         }
     }
