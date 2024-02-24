@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using QuickPay.Models;
 
 namespace QuickPay.Controllers
 {

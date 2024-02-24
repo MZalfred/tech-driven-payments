@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Microsoft.AspNetCore.OpenApi/8.0.2": {
+      "Microsoft.AspNetCore.OpenApi/8.0.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.OpenApi": "1.4.3"
@@ -111,10 +111,10 @@
     }
   },
   "libraries": {
-    "Microsoft.AspNetCore.OpenApi/8.0.2": {
-      "sha512": "59xQBsH+2at3+rrLazCNbaLhS1gmMY2fT1rSxa116EQ2oCbdULerytaYtr0h5iew+BVwJZNsWgvU3fOpt74DCA==",
+    "Microsoft.AspNetCore.OpenApi/8.0.0": {
+      "sha512": "T4mwMvPSOYAp+KeQ4xO8H2rxpiOMJ9W/7yBBkUTMp96AHtGlPN4s7hbax2tM61LxTY775JKL4fiv5grn41EHXw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.openapi/8.0.2",
+      "path": "microsoft.aspnetcore.openapi/8.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -122,7 +122,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll",
         "lib/net8.0/Microsoft.AspNetCore.OpenApi.xml",
-        "microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
+        "microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
         "microsoft.aspnetcore.openapi.nuspec"
       ]
     },
@@ -455,7 +455,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.AspNetCore.OpenApi >= 8.0.2",
+      "Microsoft.AspNetCore.OpenApi >= 8.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -490,11 +490,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -503,7 +498,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
-            "version": "[8.0.2, )"
+            "version": "[8.0.0, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
@@ -529,7 +524,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/alfredkafurama/.vscode-dotnet-sdk/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

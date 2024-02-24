@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickPay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5796166a815ca41df8d53c94e18bd420416b018")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae9f38ec0dde12777c4c82e1de9842e0c480268d")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickPay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickPay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

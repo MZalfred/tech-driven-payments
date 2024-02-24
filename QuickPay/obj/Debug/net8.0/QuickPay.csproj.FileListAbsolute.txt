@@ -26,7 +26,7 @@
 /Users/alfredkafurama/Desktop/tech-driven-payments/QuickPay/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.QuickPay.props
 /Users/alfredkafurama/Desktop/tech-driven-payments/QuickPay/obj/Debug/net8.0/staticwebassets.pack.json
 /Users/alfredkafurama/Desktop/tech-driven-payments/QuickPay/obj/Debug/net8.0/scopedcss/bundle/QuickPay.styles.css
-/Users/alfredkafurama/Desktop/tech-driven-payments/QuickPay/obj/Debug/net8.0/QuickPay.csproj.Up2Date
+/Users/alfredkafurama/Desktop/tech-driven-payments/QuickPay/obj/Debug/net8.0/QuickPay.csproj.CopyComplete
 /Users/alfredkafurama/Desktop/tech-driven-payments/QuickPay/obj/Debug/net8.0/QuickPay.dll
 /Users/alfredkafurama/Desktop/tech-driven-payments/QuickPay/obj/Debug/net8.0/refint/QuickPay.dll
 /Users/alfredkafurama/Desktop/tech-driven-payments/QuickPay/obj/Debug/net8.0/QuickPay.pdb
